@@ -1,4 +1,4 @@
-# Comparation Between Encryption Formats
+# Comparison Between Encryption Formats
 
 ## Warning
 
